@@ -1,0 +1,168 @@
+:root {
+	--blue: #0000ff;
+	--white: #fffff;
+	--black: #00000;
+	--red: rgb(255, 0, 0);
+	--maroon: #800000;
+	--yellow: #ffff00;
+	--cyan: rgb(204, 204, 255);
+	--silver: #c0c0c0;
+	--gray: #808080;
+	--olive: #808000;
+	--lime: #00ff00;
+	--green: #008000;
+	--aqua: #00ffff;
+	--teal: #008080;
+	--navy: #000080;
+	--fuchsia: #ff00ff;
+	--purple: #800080;
+	/* Pinks */
+	--mediumvioletred: #c71585;
+	--palevioletred: #DB7093;
+	--deeppink: #ff1493;
+	--hotpink: #ff69b4;
+	--lightpink: #ffb6c1;
+	--pink: #FFC0CB;
+	/* reds */
+	--darkred: #8b0000;
+	--firebrick: #b22222;
+	--crimson: #dc143c;
+	--indianred: #cd5c5c;
+	--lightcoral: #f08080;
+	--salmon: #fa8072;
+	--darksalmon: #e9967a;
+	--lightsalmon: #ffa07a;
+	/* orange */
+	--orangered: #ff4500;
+	--tomato: #ff6347;
+	--darkorange: #ff8c00;
+	--coral: #ff7f50;
+	--orange: #ffa500;
+	/* yellow */
+	--darkkhaki: #bdb76d;
+	--gold: #ffd700;
+	--khaki: #f0e68c;
+	--peachpuff: #ffdab9;
+	/* more in few days */
+}
+.peachpuff {
+	color: var(--peachpuff);
+}
+.khaki {
+	color: var(--khaki);
+}
+.gold {
+	color: var(--gold);
+}
+.darkkhaki {
+	color: var(--darkkhaki);
+}
+/* orange */
+.orange {
+	color: var(--orange);
+}
+.coral {
+	color: var(--coral);
+}
+.darkorange {
+	color: var(--darkorange);
+}
+.tomato {
+	color: var(--tomato);
+}
+.orangered {
+	color: variable(--orangered);
+}
+/* red */
+.lightsalmon {
+	color: var(--lightsalmon);
+}
+.darksalmon {
+	color: var(--darksalmon);
+}
+.salmon {
+	color: var(--salmon);
+}
+.lightcoral {
+	color: var(--lightcoral);
+}
+.indianred {
+	color: var(--indianred);
+}
+.crimson {
+	color: var(--crimson);
+}
+.firebrick {
+	color: var(--firebrick);
+}
+.darkred {
+	color: var(--darkred);
+}
+/* pinks */
+.pink {
+	color: var(--pink);
+}
+.lightpink {
+	color: var(--lightpink);
+}
+.hotpink {
+	color: var(--hotpink);
+}
+.deeppink {
+	color: var(--deeppink);
+}
+.palevioletred {
+	color: var(--palevioletred);
+}
+.mediumvioletred {
+	color: var(--mediumvioletred);
+}
+/* random colors */
+.silver {
+	color: var(--cyan);
+}
+.gray {
+	color: var(--gray);
+}
+.teal {
+	color: var(--teal);
+}
+.olive {
+	color: var(--olive);
+}
+.lime {
+	color: var(--lime);
+}
+.navy {
+	color: var(--navy);
+}
+.green {
+	color: var(--green);
+}
+.aqua {
+	color: var(--aqua);
+}
+.fuchsia {
+	color: var(--fuchsia);
+}
+.purple {
+	color: var(--purple);
+}
+.blue {
+	color: var(--blue);
+}
+.white {
+	color: var(--white);
+}
+.black {
+	color: var(--black);
+}
+.red {
+	color: var(--red);
+}
+.yellow {
+	color: var(--yellow);
+}
+.cyan {
+	color: var(--cyan);
+}
